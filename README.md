@@ -16,11 +16,10 @@ The code requires:
 * MATLAB
 * YALMIP
 * MOSEK
-* QETLAB
 
 Please install the required packages and add them to the MATLAB path before running the code.
 
-Usage
+＃Usage
 
 Run
 
@@ -28,6 +27,6 @@ mixed_channel_paper
 
 in MATLAB.
 
-Reference
+＃Reference
 
 This code accompanies our work on steering-breaking quantum channels.
