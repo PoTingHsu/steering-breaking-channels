@@ -21,11 +21,7 @@ Please install the required packages and add them to the MATLAB path before runn
 
 ＃Usage
 
-Run
-
-mixed_channel_paper
-
-in MATLAB.
+Run mixed_channel_paper in MATLAB.
 
 ＃Reference
 
