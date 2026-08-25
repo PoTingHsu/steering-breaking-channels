@@ -16,7 +16,7 @@ The code requires:
 * MATLAB
 * YALMIP
 * MOSEK
-* Package
+* package
 
 Please install the required packages and add them to the MATLAB path before running the code.
 
