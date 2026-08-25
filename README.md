@@ -3,13 +3,13 @@
 
 MATLAB code for the numerical study of steering-breaking quantum channels.
 
-Description
+＃Description
 
 This repository contains the numerical code used to study steering-breaking channels using semidefinite programming (SDP).
 
 mixed_channel_paper.m considers a mixture of the bit-flip channel and the depolarizing channel, and compares the LHS model threshold with the separability threshold.
 
-Requirements
+＃Requirements
 
 The code requires:
 
